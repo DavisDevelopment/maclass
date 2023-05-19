@@ -1,4 +1,5 @@
 
+*.pyc
 *.pkl
 *.pt
 *.pth
@@ -6,3 +7,4 @@ test_images/
 venv/
 _pretrained/
 stonks/*.csv
+__pycache__
